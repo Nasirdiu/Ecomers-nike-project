@@ -1,9 +1,12 @@
 import React from 'react';
+import Hero from './components/Hero';
 
 const App = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <main>
+        <Hero/>
+      </main>
     </div>
   );
 };

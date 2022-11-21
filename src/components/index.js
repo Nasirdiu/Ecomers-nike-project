@@ -1,3 +1,1 @@
-export{
-    defa
-}
+export{ default as Hero } from '../components/Hero.jsx'
