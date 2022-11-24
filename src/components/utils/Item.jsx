@@ -10,7 +10,7 @@ const Item = ({ifExists,
     btn,
     rating,
     price,}) => {
-        console.log(id);
+        // console.log(id);
 
         
     return (
