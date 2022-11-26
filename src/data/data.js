@@ -95,7 +95,6 @@ const highlight = {
   title: "NIKE AIR WITH LIMITLESS CHOICES",
   text: "Our Purpose is to move the world forward. We take action by building community, protecting our planet and increasing access to sport.",
   btn: "Explore More",
-  url: "https://www.nike.com/launch/t/nocta-hot-step-black-gold",
   img: hightlightimg,
 };
 
@@ -104,7 +103,6 @@ const sneaker = {
   title: "NIKE SNEAKERS AIR LANCING SHOES",
   text: "The radiance lives on Nike Sneakers Air Lancing Shoes, the basket ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
   btn: "Explore More",
-  url: "https://sneakernews.com/2022/03/21/nike-lebron-2-retro-white-midnight-navy-varsity-crimson-dr0826-100/",
   img: sneakershoe,
 };
 
